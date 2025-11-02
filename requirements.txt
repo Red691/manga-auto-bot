@@ -5,6 +5,7 @@ requests
 selenium
 fpdf
 Pillow
-sqlite3
+# requirements.txt
+- sqlite3
 PyGithub
 python-dotenv
